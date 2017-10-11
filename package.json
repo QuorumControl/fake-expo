@@ -1,0 +1,19 @@
+{
+  "name": "expo",
+  "version": "0.0.1",
+  "description": "only here to prevent things from erroring",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://github.com/QuorumControl/fake-expo"
+  },
+  "author": "Topper Bowers",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/QuorumControl/fake-expo/issues"
+  },
+  "homepage": "https://github.com/QuorumControl/fake-expo#readme"
+}
